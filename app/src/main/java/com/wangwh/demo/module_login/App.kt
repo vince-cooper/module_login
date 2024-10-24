@@ -1,4 +1,4 @@
-package com.wangwh.demo.common_module
+package com.wangwh.demo.module_login
 
 import android.app.Application
 import com.alibaba.android.arouter.launcher.ARouter
