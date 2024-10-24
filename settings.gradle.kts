@@ -27,7 +27,6 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        gradlePluginPortal()
         maven {
             url = uri(nexusSnapshotUrl)
             credentials {
