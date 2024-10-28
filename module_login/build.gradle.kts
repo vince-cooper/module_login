@@ -16,6 +16,7 @@ kapt {
 android {
     namespace = "com.wangwh.modules.login"
     compileSdk = libs.versions.compileSdk.get().toInt()
+    resourcePrefix = "module_login_"
 
     defaultConfig {
         minSdk = libs.versions.minSdk.get().toInt()
